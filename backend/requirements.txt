@@ -1,0 +1,9 @@
+ag-ui-protocol
+fastapi
+uvicorn
+python-multipart
+pypdf
+docx2txt
+# LangGraph agent (AGENT_FRAMEWORK=langgraph)
+langchain-anthropic
+langgraph
